@@ -156,7 +156,7 @@ I'm always excited to discuss new opportunities, collaborate on innovative proje
 
 <div align="center">
   
-**� "Code is like humor. When you have to explain it, it's bad." - Cory House**
+**💬 "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!
 
