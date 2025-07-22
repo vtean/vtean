@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;C%2B%2B+Software+Engineer;10%2B+Years+of+Coding+Experience;Building+Digital+Solutions+at+tean.dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;C%2B%2B+Software+Engineer;7%2B+Years+of+Coding+Experience;Building+Digital+Solutions+at+tean.dev)](https://git.io/typing-svg)
 
 ### 🌐 [Visit my website: tean.dev](https://tean.dev)
 
