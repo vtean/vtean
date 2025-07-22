@@ -112,7 +112,7 @@ const valentin = {
     experience: {
         webDevelopment: "7+ years",
         cppDevelopment: "3+ years",
-        totalCoding: "10+ years",
+        totalCoding: "7+ years",
     },
     strengths: [
         "Problem Solver 🧩",
